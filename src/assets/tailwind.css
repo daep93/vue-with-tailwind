@@ -1,0 +1,8 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.p-mono-red {
+    margin: 0;
+    @apply text-red-800 font-mono;
+}
